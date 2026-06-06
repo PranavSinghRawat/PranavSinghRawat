@@ -53,9 +53,9 @@ Below are the benchmark results of the CAMP (Cumulative Agentic Masking and Prun
 
 ### GitHub Activity Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavSinghRawat&show_icons=true&theme=algolia&hide_border=true&hide_rank=true&count_private=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=PranavSinghRawat&show_icons=true&theme=algolia&hide_border=true&hide_rank=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavSinghRawat&layout=compact&theme=algolia&hide_border=true&langs_count=6)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=PranavSinghRawat&layout=compact&theme=algolia&hide_border=true&langs_count=6)
 
 ---
 
